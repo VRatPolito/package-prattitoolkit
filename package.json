@@ -21,6 +21,11 @@
     "displayName": "BuildData - Config File",
     "description": "Config file Example",
     "path": "Samples~/BuildData"
+  },
+  {
+    "displayName": "VR Stuffs",
+    "description": "Tools for VR",
+    "path": "Samples~/VR"
   }
   ]
 }
