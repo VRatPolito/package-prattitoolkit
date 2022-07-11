@@ -1,0 +1,26 @@
+{
+  "name": "com.vratpolito.prattitoolkit",
+  "displayName": "PrattiToolkit",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "TODO",
+  "keywords": [
+    "Utility",
+	"Library"
+  ],
+  "category": "Utility",
+  "dependencies": {
+  },
+  "repository": {
+    "url": "https://github.com/VRatPolito/package-prattitoolkit.git",
+    "type": "git",
+    "revision": "9d9f8755d60d722dbf1e2e32495cebbe45d58825"
+  },
+  "samples": [
+  {
+    "displayName": "BuildData - Config File",
+    "description": "Config file Example",
+    "path": "Samples~/BuildData"
+  }
+  ]
+}

@@ -1,0 +1,17 @@
+#Participant ID (can be a string) [max lenght 15]
+ParticipantId=1
+
+#Set Metaphor among {PIP, FRUSTM, POSER}
+Metaphor=PIP
+
+#Set application MODE among {TUTORIAL, TRAINING, ASSESSMENT}
+Mode=TRAINING
+
+#Set Skippable Flag
+Skippable=FALSE
+
+#Occhio dominante {L,R}
+MainEye=R
+
+#Locomotion
+ForceJOY=FALSE
