@@ -1,6 +1,6 @@
 {
-    "name": "PrattiToolkit.Editor",
-    "rootNamespace": "PrattiToolkit",
+    "name": "VRatPolito.PrattiToolkit.Editor",
+    "rootNamespace": "VRatPolito.PrattiToolkit",
     "references": [
         "GUID:b93084ae461bd7c4d9bdec07481fe72a"
     ],
