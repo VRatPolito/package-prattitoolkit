@@ -2,10 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
-using UnityEngine.XR.Interaction.Toolkit;
-using TMPro; // Add the TextMesh Pro namespace to access the various functions.
 using System.Linq;
-using Unity.XR.Oculus.Input;
 
 public class HandAnim : MonoBehaviour
 {

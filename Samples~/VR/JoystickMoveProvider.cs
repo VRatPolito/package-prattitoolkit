@@ -1,10 +1,9 @@
-using PrattiToolkit;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Inputs;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit.VR
 {
     public class JoystickMoveProvider : ContinuousMoveProviderBase
     {
