@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     /// <summary>
     /// Thread-safe Main thread dispatcher. 

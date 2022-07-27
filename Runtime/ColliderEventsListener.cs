@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     [RequireComponent(typeof(Collider))]
     public class ColliderEventsListener : MonoBehaviour

@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     [CustomPropertyDrawer(typeof(RangedInt), true)]
     public class RangedIntDrawer : PropertyDrawer

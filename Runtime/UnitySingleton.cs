@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     /// <summary>
     /// Be aware this will not prevent a non singleton constructor

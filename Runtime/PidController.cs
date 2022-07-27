@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     public class SimplePID
     {

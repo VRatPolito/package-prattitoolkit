@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Collections;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
 
     public class FindObjects : ScriptableWizard

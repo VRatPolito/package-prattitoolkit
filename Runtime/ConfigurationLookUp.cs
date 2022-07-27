@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     public class ConfigurationLookUp : UnitySingleton<ConfigurationLookUp>
     {

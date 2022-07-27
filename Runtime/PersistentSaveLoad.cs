@@ -7,7 +7,7 @@ using System.IO;
 using System.Runtime.Serialization;
 
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
 
     public static class PersistentSaveLoad

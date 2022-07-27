@@ -36,7 +36,7 @@ using System.Collections.Generic;
 using System.IO;
 
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
 
     public static class AutoBuilder

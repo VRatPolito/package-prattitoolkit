@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     [Serializable]
     public struct RangedInt

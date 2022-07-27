@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using UnityEditor;
 #endif
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
 #if UNITY_EDITOR
     /// <summary>

@@ -16,7 +16,7 @@ using Debug = UnityEngine.Debug;
 using Math = System.Math;
 
 // global declaration end
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit
 {
     public static class Utility
     {
