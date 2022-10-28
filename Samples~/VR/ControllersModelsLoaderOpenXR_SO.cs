@@ -5,10 +5,9 @@ using System.IO;
 using System;
 using System.Linq;
 using Microsoft.Win32;
-using PrattiToolkit;
 using UnityEngine.XR.OpenXR.Features.Interactions;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit.VR
 {
     [Serializable]
     public struct ModelPathBinding

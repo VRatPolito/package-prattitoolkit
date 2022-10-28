@@ -10,7 +10,7 @@ using System;
 using System.Net.Http.Headers;
 using UnityEngine.Assertions;
 
-namespace PrattiToolkit
+namespace VRatPolito.PrattiToolkit.VR
 {
     public class ControllersModelsLoaderOpenXR : MonoBehaviour
     {
@@ -83,9 +83,9 @@ namespace PrattiToolkit
             _left = RetrieveModel(_deviceName, InputDeviceCharacteristics.Left);
             _right = RetrieveModel(_deviceName, InputDeviceCharacteristics.Right);
             
-            var vric = this.GetComponent<VRItemController>();
-            var lc = vric.LeftController?.GetComponent<ActionBasedController>();
-            var rc = vric.RightController?.GetComponent<ActionBasedController>();
+            var vric = this.GetComponent<XROrigin>();
+            var lc = vric.transform.GetChildRecursive("LeftHand Controller")?.GetComponent<ActionBasedController>();
+            var rc = vric.transform.GetChildRecursive("RightHand Controller")?.GetComponent<ActionBasedController>();
 
             lc.model = _left.transform;
             rc.model = _right.transform;
